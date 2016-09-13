@@ -1,0 +1,16 @@
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\obj\x86\Debug\MDWlite.Properties.Resources.resources
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\obj\x86\Debug\MDWlite.csproj.GenerateResource.Cache
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\bin\Debug\MDWlite.exe.config
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\bin\Debug\MDWlite.exe
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\bin\Debug\MDWlite.pdb
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\bin\Debug\CSLibrary.Diagnostics.dll
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\bin\Debug\CSLibrary.dll
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\bin\Debug\CSLibrary.Windows.dll
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\obj\x86\Debug\MDWlite.exe
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\obj\x86\Debug\MDWlite.pdb
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\bin\Debug\CSLibrary.pdb
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\obj\x86\Debug\MDWlite.csprojResolveAssemblyReference.cache
+C:\Users\JMCM\Dropbox\Respaldo\DEV\Desarrollo de Software\2016\Demo_telcel_tablets\MDWlite\WindowsFormsApplication1\obj\x86\Debug\MDWlite.TabletMonitor.resources
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\DemoTabletsTelcel\WindowsFormsApplication1\bin\Debug\MDWlite.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\DemoTabletsTelcel\WindowsFormsApplication1\obj\x86\Debug\MDWlite.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\DemoTabletsTelcel\WindowsFormsApplication1\obj\x86\Debug\MDWlite.pdb
